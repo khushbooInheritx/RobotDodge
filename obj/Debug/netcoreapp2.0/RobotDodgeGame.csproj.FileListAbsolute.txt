@@ -1,0 +1,11 @@
+/Users/khushbooalmaula/Documents/Programs/RobotDodgeGame/bin/Debug/netcoreapp2.0/RobotDodgeGame.deps.json
+/Users/khushbooalmaula/Documents/Programs/RobotDodgeGame/bin/Debug/netcoreapp2.0/RobotDodgeGame.runtimeconfig.json
+/Users/khushbooalmaula/Documents/Programs/RobotDodgeGame/bin/Debug/netcoreapp2.0/RobotDodgeGame.runtimeconfig.dev.json
+/Users/khushbooalmaula/Documents/Programs/RobotDodgeGame/bin/Debug/netcoreapp2.0/RobotDodgeGame.dll
+/Users/khushbooalmaula/Documents/Programs/RobotDodgeGame/bin/Debug/netcoreapp2.0/RobotDodgeGame.pdb
+/Users/khushbooalmaula/Documents/Programs/RobotDodgeGame/obj/Debug/netcoreapp2.0/RobotDodgeGame.csprojAssemblyReference.cache
+/Users/khushbooalmaula/Documents/Programs/RobotDodgeGame/obj/Debug/netcoreapp2.0/RobotDodgeGame.csproj.CoreCompileInputs.cache
+/Users/khushbooalmaula/Documents/Programs/RobotDodgeGame/obj/Debug/netcoreapp2.0/RobotDodgeGame.AssemblyInfoInputs.cache
+/Users/khushbooalmaula/Documents/Programs/RobotDodgeGame/obj/Debug/netcoreapp2.0/RobotDodgeGame.AssemblyInfo.cs
+/Users/khushbooalmaula/Documents/Programs/RobotDodgeGame/obj/Debug/netcoreapp2.0/RobotDodgeGame.dll
+/Users/khushbooalmaula/Documents/Programs/RobotDodgeGame/obj/Debug/netcoreapp2.0/RobotDodgeGame.pdb
